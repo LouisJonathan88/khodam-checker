@@ -17,5 +17,13 @@ REST API sederhana menggunakan Node.js, Express, dan MySQL. Proyek ini menyediak
 - MySQL
 - body-parser
 
-## 📁 Struktur Proyek
+## ⚙️ Instalasi
+
+1. **Clone repositori**
+   ```bash
+   git clone https://github.com/LouisJonathan88/khodam-checker.git
+   cd repo-khodam
+2. Install dependensi
+   ```bash
+   npm install
 
